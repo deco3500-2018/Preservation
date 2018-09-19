@@ -12,3 +12,7 @@ Team Proposal: <a href="https://github.com/deco3500-2018/Preservation/wiki/Propo
 Current Prototype: <a href="https://share.proto.io/H18J9T/">Proto.io</a>
 
 File for standup(20/9/18): <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
+
+
+Additional references:
+1) <a href="https://www.arts.qld.gov.au/culturalist">Culturalist</a>
