@@ -25,6 +25,8 @@ Map: Richard<br>
 Infomation gathering: Murray<br>
 Documentation: Mark, Lee, Kevin<br>
 
+## Problem Space & solutions: <br>
+Wiki Link: <a href="https://github.com/deco3500-2018/Preservation/wiki/Problem-Space"></a><br><br>
 
 **File for standup(20/9/18):** <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
 
