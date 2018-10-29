@@ -25,8 +25,9 @@ Map: Richard<br>
 Infomation gathering: Murray<br>
 Documentation: Mark, Lee, Kevin<br>
 
-## Problem Space & solutions: <br>
-Wiki Link: <a href="https://github.com/deco3500-2018/Preservation/wiki/Problem-Space">Click here</a><br><br>
+## Problem Space, solutions and goals: <br>
+Our goal is to spread awareness on the importance of the history and culture of each city by creating an app that helps people discover historic locations so that information and knowledge from the past can be kept and passed on to the next generation.<br>
+To learn more about our problem space and solution: <a href="https://github.com/deco3500-2018/Preservation/wiki/Problem-Space">Click here</a><br><br>
 
 **File for standup(20/9/18):** <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
 
