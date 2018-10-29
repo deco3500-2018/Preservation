@@ -17,7 +17,7 @@ Week 12 & 13: <a href="https://github.com/deco3500-2018/Preservation/wiki/Design
 ## Prototypes: <br>
 1) <a href="https://pr.to/R1VV56/">Prototype 1</a> (Proto.io) <br>
 2) <a href="https://pr.to/2CLHIY/">Prototype 2</a> (Proto.io) <br>
-3) <a href="https://storage.googleapis.com/www.udonpan.com/map.html>Map"</a>Web<br>
+3) <a href="https://storage.googleapis.com/www.udonpan.com/map.html">Map</a> (Web and Google Map API)<br>
 4) <a href="https://www.dropbox.com/sh/dfuaj8sz70lsqlf/AADbZmf_9cDC5fWQWpgSiCHJa?dl=0">Dropbox link</a> (Drop box link for AR as file is too big to be uploaded, install via apk file)<br>
 
 ## Task Assignment: <br>
