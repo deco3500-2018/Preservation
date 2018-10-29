@@ -9,8 +9,9 @@ Richard Pan <br>
 
 Team Proposal: <a href="https://github.com/deco3500-2018/Preservation/wiki/Proposal">Click here</a>
 
-Early Prototype: <a href="https://pr.to/R1VV56/">Prototype 1</a> <br>
-Current Prototype: <a href="https://pr.to/2CLHIY/">Prototype 2</a>
+Prototypes: <br>
+1) <a href="https://pr.to/R1VV56/">Prototype 1</a> <br>
+2) <a href="https://pr.to/2CLHIY/">Prototype 2</a>
 
 File for standup(20/9/18): <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
 
