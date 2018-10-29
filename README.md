@@ -26,9 +26,9 @@ Infomation gathering: Murray<br>
 Documentation: Mark, Lee, Kevin<br>
 
 
-File for standup(20/9/18): <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
+**File for standup(20/9/18):** <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
 
 
-Additional references:
+### Additional references:
 1) <a href="https://www.arts.qld.gov.au/culturalist">Culturalist</a><br>
 2) <a href="https://www.youtube.com/watch?v=LMSxw-hP_f0&ab_channel=Thoughtfulmonkey">AR scene guide</a><br>
