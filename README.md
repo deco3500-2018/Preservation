@@ -37,3 +37,4 @@ To learn more about our problem space and solution: <a href="https://github.com/
 ### Additional References for Project Development:
 1) <a href="https://www.arts.qld.gov.au/culturalist">Culturalist</a><br>
 2) <a href="https://www.youtube.com/watch?v=LMSxw-hP_f0&ab_channel=Thoughtfulmonkey">AR scene guide</a><br>
+3）<a href="https://github.com/deco3500-2018/Preservation/blob/master/References.pdf>References</a><br>
