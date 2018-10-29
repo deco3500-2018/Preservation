@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ 	<link rel="stylesheet" style="text/css" href="css/style.css" />
+    <!-- This link is for icons -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+  	<header>
+    </header>
+    <div id="floating-panel">
+        <b>From current location to </b>
+        <select id="first">
+          <option value="">Select a destination</option>
+          <option value="-27.467804, 153.027925">General Post Office</option>
+          <option value="-27.478283, 153.022432">Plough Inn</option>
+          <option value="-27.473329, 153.019965">Victoria Bridge Southbank Side</option>
+          <option value="-27.471317, 153.022718">Victoria Bridge City Side</option>
+          <option value="-27.469039, 153.026012">Queen Street Mall</option>
+          <option value="-27.475336, 153.020913">South Bank Fountain/Wheel</option>
+          <option value="-27.477608, 153.022005">Southbank Canals</option>
+          <option value="-27.499501, 153.015209">Advanced Engineering Building</option>
+        </select>
+        <b>then </b>
+        <select id="second">
+          <option value="">Select a destination</option>
+          <option value="-27.467804, 153.027925">General Post Office</option>
+          <option value="-27.478283, 153.022432">Plough Inn</option>
+          <option value="-27.473329, 153.019965">Victoria Bridge Southbank Side</option>
+          <option value="-27.471317, 153.022718">Victoria Bridge City Side</option>
+          <option value="-27.469039, 153.026012">Queen Street Mall</option>
+          <option value="-27.475336, 153.020913">South Bank Fountain/Wheel</option>
+          <option value="-27.477608, 153.022005">Southbank Canals</option>
+          <option value="-27.499501, 153.015209">Advanced Engineering Building</option>
+        </select>
+        </div>
+    <section id="map">
+    </section>
+  <script src="js/map.js"></script>
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAGIb7bzykJF-RNlQV-R29lEUcFk-nF78Y&callback=initMap&libraries=places&amp;language=en">
+  </script>
+  </body>
+</html>
