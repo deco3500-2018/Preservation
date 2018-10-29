@@ -31,6 +31,8 @@ To learn more about our problem space and solution: <a href="https://github.com/
 
 **File for standup(20/9/18):** <a href="https://github.com/deco3500-2018/Preservation/blob/master/Standup.pdf">Click here</a>
 
+## Poster: <br>
+<img src="https://github.com/deco3500-2018/Preservation/blob/master/poster%404x.png"/>
 
 ### Additional References for Project Development:
 1) <a href="https://www.arts.qld.gov.au/culturalist">Culturalist</a><br>
