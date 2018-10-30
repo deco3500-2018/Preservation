@@ -25,7 +25,7 @@ Home page, info page, comments: Lee<br>
 AR Scene: Mark<br>
 Map: Richard<br>
 Infomation gathering: Murray<br>
-Documentation: Mark, Lee, Kevin<br>
+Documentation: Mark, Lee, Binfeng<br>
 
 ## Goals, Problem Space and Solution: <br>
 Our goal is to spread awareness on the importance of the history and culture of each city by creating an app that helps people discover historic locations so that information and knowledge from the past can be kept and passed on to the next generation.<br>
